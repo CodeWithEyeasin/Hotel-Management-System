@@ -136,6 +136,15 @@
                              Room heater
                           </span>
                       </div>
+                      <div class="guests mb-4">
+                        <h6 class="mb-1">Guests</h6>
+                        <span class="badge rounded-pill bg-light text-dark text-wrap">
+                            5 Adults
+                         </span>
+                         <span class="badge rounded-pill bg-light text-dark text-wrap">
+                             4 Children
+                          </span>
+                      </div>
                       <div class="rating mb-4">
                         <h6 class="mb-1">Rating</h6>
                         <span class="'badge rounded-pill bg-light">
@@ -189,6 +198,15 @@
                           </span>
                           <span class="badge rounded-pill bg-light text-dark text-wrap">
                              Room heater
+                          </span>
+                      </div>
+                      <div class="guests mb-4">
+                        <h6 class="mb-1">Guests</h6>
+                        <span class="badge rounded-pill bg-light text-dark text-wrap">
+                            5 Adults
+                         </span>
+                         <span class="badge rounded-pill bg-light text-dark text-wrap">
+                             4 Children
                           </span>
                       </div>
                       <div class="rating mb-4">
@@ -246,6 +264,15 @@
                              Room heater
                           </span>
                       </div>
+                      <div class="guests mb-4">
+                        <h6 class="mb-1">Guests</h6>
+                        <span class="badge rounded-pill bg-light text-dark text-wrap">
+                            5 Adults
+                         </span>
+                         <span class="badge rounded-pill bg-light text-dark text-wrap">
+                             4 Children
+                          </span>
+                      </div>
                       <div class="rating mb-4">
                         <h6 class="mb-1">Rating</h6>
                         <span class="'badge rounded-pill bg-light">
@@ -271,7 +298,7 @@
         </div>
     </div>
 
-    <!-- Our Facilites // OUSHI-->
+    <!-- Our Facilites -->
     <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">OUR FACILITIES</h2>
 
     <div class="container">
@@ -302,7 +329,7 @@
         </div>
     </div>
 
-    <!-- Testimonials // OUSHI-->
+    <!-- Testimonials-->
 
     <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">TESTIMONIALS</h2>
 
@@ -375,7 +402,7 @@
           </div>
     </div>
 
-     <!-- Reach us // Ifan-->
+     <!-- Reach us -->
 
      <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">REACH US</h2>
 
@@ -433,8 +460,6 @@
             disableOnInteraction: false,
         }
         });
-
-<!-- OUSHI-->
 
         var swiper = new Swiper(".swiper-testimonials", {
       effect: "coverflow",
