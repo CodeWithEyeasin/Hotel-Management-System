@@ -94,7 +94,7 @@
         </div>
     </div>
 
-    <!-- Our Rooms // IFAN--> 
+    <!-- Our Rooms --> 
      <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">OUR ROOMS</h2>
 
     <div class="container">
