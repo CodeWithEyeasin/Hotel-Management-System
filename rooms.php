@@ -11,7 +11,7 @@
     
    <?php require('inc/header.php'); ?>
 
-    <div class="my-5 px-4">
+   <div class="my-5 px-4">
         <h2 class="fw-bold h-font text-center">OUR ROOMS</h2>
         <div class="h-line bg-dark "></div>
         
@@ -250,17 +250,10 @@
                         <a href="#" class="btn btn-sm w-100 btn-outline-dark shadow-none">More Details</a>
             </div>
         </div>
-
-
     </div>
+</div>
 
-           
-
-        
-
-    </div>
-
-     <?php require('inc/footer.php'); ?>
+<?php require('inc/footer.php'); ?>
 
     </body>
 </html>
